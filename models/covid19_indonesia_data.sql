@@ -1,0 +1,1 @@
+create table covid19_indonesia_data as from from covid19_indonesia_data
